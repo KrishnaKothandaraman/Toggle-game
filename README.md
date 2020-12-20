@@ -11,4 +11,4 @@ Each Tile has 4 neighbours. The tile above, the tile to the left, the tile to th
 
 When a tile is clicked, the tile, along with it's 4 neighbours are toggled. OFF state goes to ON state and vice-versa.</br>
 
-The aim of the game is to find a way to toggle all the tiles to the OFF state in the last number of steps(toggles).</br>
+The aim of the game is to find a way to toggle all the tiles to the OFF state in the least number of steps(toggles).</br>
